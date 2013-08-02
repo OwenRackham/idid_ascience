@@ -1,0 +1,459 @@
+[Thu Aug  1 18:47:13 2013] [info] Listening at "http://*:3000".
+[Thu Aug  1 18:47:22 2013] [debug] Your secret passphrase needs to be changed!!!
+[Thu Aug  1 18:47:22 2013] [debug] GET "/".
+[Thu Aug  1 18:47:22 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Thu Aug  1 18:47:22 2013] [debug] Rendering template "example/welcome.html.ep".
+[Thu Aug  1 18:47:22 2013] [debug] Rendering template "layouts/default.html.ep".
+[Thu Aug  1 18:47:22 2013] [debug] 200 OK (0.007917s, 126.310/s).
+[Fri Aug  2 17:02:29 2013] [debug] GET "/".
+[Fri Aug  2 17:02:29 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:02:29 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:02:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:02:29 2013] [debug] 200 OK (0.023501s, 42.551/s).
+[Fri Aug  2 17:13:45 2013] [debug] GET "/".
+[Fri Aug  2 17:13:45 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:13:45 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:13:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:13:45 2013] [debug] 200 OK (0.003419s, 292.483/s).
+[Fri Aug  2 17:13:46 2013] [debug] GET "/".
+[Fri Aug  2 17:13:46 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:13:46 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:13:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:13:46 2013] [debug] 200 OK (0.001283s, 779.423/s).
+[Fri Aug  2 17:13:47 2013] [debug] GET "/".
+[Fri Aug  2 17:13:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:13:47 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:13:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:13:47 2013] [debug] 200 OK (0.001703s, 587.199/s).
+[Fri Aug  2 17:13:58 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:14:01 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:14:01 2013] [debug] GET "/".
+[Fri Aug  2 17:14:01 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:14:01 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:14:01 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:14:01 2013] [debug] 200 OK (0.011489s, 87.040/s).
+[Fri Aug  2 17:42:57 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:43:02 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:43:02 2013] [debug] GET "/".
+[Fri Aug  2 17:43:02 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:43:02 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:43:02 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:43:02 2013] [debug] 200 OK (0.016573s, 60.339/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery-1.8.2.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.019471s, 51.358/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.006311s, 158.453/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.easing.1.3.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005445s, 183.655/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005455s, 183.318/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005337s, 187.371/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005580s, 179.211/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.008204s, 121.892/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.010427s, 95.905/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.009303s, 107.492/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.007149s, 139.880/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.007049s, 141.864/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.006810s, 146.843/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.easing.1.3.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.007826s, 127.779/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005867s, 170.445/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005610s, 178.253/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.006878s, 145.391/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005586s, 179.019/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.007126s, 140.331/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.006673s, 149.858/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005574s, 179.404/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.006065s, 164.880/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.005576s, 179.340/s).
+[Fri Aug  2 17:43:03 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:03 2013] [debug] 404 Not Found (0.009878s, 101.235/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/".
+[Fri Aug  2 17:43:29 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:43:29 2013] [debug] 200 OK (0.001346s, 742.942/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery-1.8.2.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.007086s, 141.123/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.007395s, 135.227/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.easing.1.3.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006219s, 160.798/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.005621s, 177.904/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006101s, 163.908/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.005680s, 176.056/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.009828s, 101.750/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006802s, 147.016/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006415s, 155.885/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006066s, 164.853/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006476s, 154.416/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.easing.1.3.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.007139s, 140.076/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.010296s, 97.125/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.005902s, 169.434/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.007951s, 125.770/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006706s, 149.120/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006017s, 166.196/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.005759s, 173.641/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006077s, 164.555/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.007268s, 137.589/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006056s, 165.125/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] 404 Not Found (0.006056s, 165.125/s).
+[Fri Aug  2 17:43:29 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:29 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:43:30 2013] [debug] 404 Not Found (0.010337s, 96.740/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/".
+[Fri Aug  2 17:45:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:45:47 2013] [debug] 200 OK (0.001025s, 975.610/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery-1.8.2.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006713s, 148.965/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.easing.1.3.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.007274s, 137.476/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006447s, 155.111/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005903s, 169.405/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005519s, 181.192/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.007579s, 131.944/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005857s, 170.736/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.009876s, 101.256/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.007790s, 128.370/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006981s, 143.246/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006405s, 156.128/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.validate.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.009222s, 108.436/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005561s, 179.824/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.simplemodal.1.4.3.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006479s, 154.345/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/gaparse.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005498s, 181.884/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/masonry.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005595s, 178.731/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.watermark.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005668s, 176.429/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/waypoints.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005676s, 176.180/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/jquery.parallax-1.1.3.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005603s, 178.476/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/flywheel.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.005597s, 178.667/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/js/respond.min.js".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.006077s, 164.555/s).
+[Fri Aug  2 17:45:47 2013] [debug] GET "/images/logo.png".
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.009980s, 100.200/s).

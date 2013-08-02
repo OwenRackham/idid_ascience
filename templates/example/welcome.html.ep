@@ -1,7 +1,214 @@
 % layout 'default';
-% title 'Welcome';
-<h2><%= $message %></h2>
-This page was generated from the template "templates/example/welcome.html.ep"
-and the layout "templates/layouts/default.html.ep",
-<a href="<%== url_for %>">click here</a> to reload the page or
-<a href="/index.html">here</a> to move forward to a static page.
+% title 'ididascience';
+<div class="lock-header hidden-phone">
+	<div class="container">
+		<div class="row">
+			<div class="span4 offset2">
+				<h4>We're currently in beta. <span>Get access:</span></h4>
+			</div>
+			<div class="span4">
+				<form action="" method="post" id="subForm" class="flywheel-form sign-up-form-fixed" >
+					<input type="email" name="cm-ttkkn-ttkkn" id="ttkkn-ttkkn" class="email required" value="" title="Your email address"/>
+					<input type="submit" value="Yep!">
+				</form>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="page-wrapper">
+	<div class="agency-wrap">
+		<div class="container page-container home-container">
+			<div class="row">
+				<div class="span12">
+					<div class="top-nav">
+						<a href="http://ididascience.co.uk" class="logo-link">
+							<img src="images/logo.png" alt="ididascience">
+						</a>
+						<ul class="nav nav-home">
+							<li>
+								<a href="" class="contact-link">CONTACT</a>
+							</li>
+							<li>
+								<a href="">BLOG</a>
+							</li>
+							<!--
+							<li>
+								<a href="">FAQ</a>
+							</li>
+						</ul>
+						<a href="https://twitter.com/HeyFlywheel" class="twitter-follow-button hidden-phone" data-show-count="false" data-show-screen-name="false">Follow @HeyFlywheel</a>
+					</div>
+					<div class="header-main hidden-phone">
+						<h1>i <br> did <br> a <br> science</h1>
+						<h2>Beautiful Science</h2>
+						<p>
+							Some info in here							  
+						</p>
+						<h4>Interested? Sign up to our newsletter:</h4>
+						<form action="" method="post" id="subForm" class="flywheel-form sign-up-form" style="margin-bottom:0px!important;">
+							<input type="email" name="cm-ttkkn-ttkkn" id="ttkkn-ttkkn" class="email required" value="" title="Your email address"/>
+							<input type="submit" value="YES, PLEASE!">
+						</form>
+					</div>
+					
+					<div class="header-main-phone visible-phone">
+						<h1>i <br> did <br> a <br> science</h1>
+						<h2>Beautiful science</h2>
+						<p>
+						Some info here							  
+						</p>
+						<h4>We're preparing to launch. Stay in the loop!</h4>
+						<form action="" method="post" id="subForm" class="flywheel-form sign-up-form">
+							<input type="submit" value="YES, PLEASE!">
+						</form>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<a href="#feature-set" class="down-tab hidden-phone" name="feature-set">
+		TELL ME MORE! <i class="arrow arrow-down">&nbsp;</i>
+	</a>
+	<div class="full-width-features feature-1">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+					<img src="images/wheel-big.png" class="fly-wheel">
+					<h1>Biology and all the others</h1>
+					<h2>some text here</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					<h4 class="icon-line"><span><i class="icon-features icon-brush"></i></span></h4>
+				</div>
+				<div class="span3">
+					<i class="icon-features-mini icon-workflow"></i>
+					<h3>Monthly printed paper</h3>
+					<p>
+						some text here
+					</p>
+				</div>
+				<div class="span3">
+					<i class="icon-features-mini icon-lock"></i>
+					<h3>Real science beautifully presented</h3>
+					<p>
+						Some text here
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="full-width-features feature-2">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+					<h1>Real Science, Real Scientists</h1>
+					<h2>Out of the lab and into the limelight</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					<h4 class="icon-line"><span><i class="icon-features icon-gear"></i></span></h4>
+				</div>
+				<div class="span3">
+					<i class="icon-features-mini icon-speed"></i>
+					<h3>OTHER NEWS HERE</h3>
+					<p>
+					Some text here
+					</p>
+				</div>
+				<div class="span3">
+					<i class="icon-features-mini icon-cache"></i>
+					<h3>Bloging our faces off</h3>
+					<p>
+						SOME TEXT HERE
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="full-width-features feature-3">
+		<div class="container">
+			<div class="row">
+				<div class="span12">
+					<h1>Scince you can enjoy</h1>
+					<h2>Understanding the world, like a scientist</h2>
+				</div>
+			</div>
+			<div class="row">
+				<div class="span12">
+					<h4 class="icon-line"><span><i class="icon-features icon-heart"></i></span></h4>
+				</div>
+				<div class="span3">
+					<i class="icon-features-mini icon-smile"></i>
+					<h3>Trying to reach everyone</h3>
+					<p>
+						SOME WORDS HERE
+					</p>
+				</div>
+			</div>
+		</div>
+	</div>
+	
+	<div class="wheel">
+		<img src="images/wheel.png" alt="Flywheel" class="wheel-icon">
+	</div>
+		
+<div class="footer" name="contact">
+	<div class="container contact-form">
+		<div class="row">
+			<div class="span12">
+				<h3>Comments? Questions? Fan mail?</h3>
+			</div>
+			<form action="" method="post" class="flywheel-form flywheel-contact-form">
+				<div class="span3">
+					<input type="text" name="namefield"  title="Name" class="required" id="name-field">
+				</div>	
+				<div class="span3">
+					<input type="email" name="emailfield" title="Email" class="email required" id="email-field">
+				</div>
+				<div class="span3">
+					<input type="text" name="phonefield" title="Phone" id="phone-field">
+				</div>
+				<div class="span3">
+					<input type="text" name="companyfield" title="Company" id="company-field">
+				</div>
+				<div class="span12  comments-textarea">
+					<textarea name="commentsfield" title="Your thoughts" id="comments-field"></textarea>
+				</div>
+				<div class="span4 offset4">
+					<input type="submit" value="SAY HELLO!">
+				</div>
+			</form>
+		</div>
+	</div>
+	<div class="container">
+		<div class="copyright">
+			<a href="" class="logo">
+				<img src="images/logo-footer.png" alt="ididascience">
+			</a>
+			<p>
+				Made by the team at <a href="http://descrybe.org">Descrybe</a>. Copyright 2013.
+			</p>
+		</div>
+		<div class="social-policies">
+			<ul class="links">
+				<li class="contact">
+					<a href="#" class="contact-link">Contact</a>
+				</li>
+				<li class="blog">
+					<a href="blog">Blog</a>
+				</li>
+				<li class="facebook">
+					<a href="https://www.facebook.com/">Facebook</a>
+				</li>
+				<li class="twitter">
+					<a href="https://twitter.com/">Twitter</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+</div>
