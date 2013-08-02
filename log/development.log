@@ -457,3 +457,132 @@
 [Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
 [Fri Aug  2 17:45:47 2013] [debug] Rendering cached inline template.
 [Fri Aug  2 17:45:47 2013] [debug] 404 Not Found (0.009980s, 100.200/s).
+[Fri Aug  2 17:49:06 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:49:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:49:11 2013] [debug] GET "/".
+[Fri Aug  2 17:49:11 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:49:11 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:49:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:49:11 2013] [debug] 200 OK (0.011156s, 89.638/s).
+[Fri Aug  2 17:49:11 2013] [debug] GET "/bootstrap/css/bootstrap.css".
+[Fri Aug  2 17:49:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:49:11 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:49:11 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:49:11 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:49:11 2013] [debug] 404 Not Found (0.022869s, 43.727/s).
+[Fri Aug  2 17:49:11 2013] [debug] GET "/jumbotron-narrow.css".
+[Fri Aug  2 17:49:11 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:49:11 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:49:11 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:49:11 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:49:11 2013] [debug] 404 Not Found (0.005718s, 174.886/s).
+[Fri Aug  2 17:49:40 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:49:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:49:48 2013] [debug] GET "/".
+[Fri Aug  2 17:49:48 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:49:48 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:49:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:49:48 2013] [debug] 200 OK (0.010291s, 97.172/s).
+[Fri Aug  2 17:49:48 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:49:48 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:49:48 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:49:48 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:49:48 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:49:48 2013] [debug] 404 Not Found (0.027705s, 36.095/s).
+[Fri Aug  2 17:51:30 2013] [debug] GET "/".
+[Fri Aug  2 17:51:30 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:51:30 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:51:30 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:51:30 2013] [debug] 200 OK (0.001499s, 667.111/s).
+[Fri Aug  2 17:51:30 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:51:30 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:51:30 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:51:30 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:51:30 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:51:30 2013] [debug] 404 Not Found (0.009122s, 109.625/s).
+[Fri Aug  2 17:54:33 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:54:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:54:44 2013] [debug] GET "/".
+[Fri Aug  2 17:54:44 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:54:44 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:54:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:54:44 2013] [debug] 200 OK (0.012633s, 79.158/s).
+[Fri Aug  2 17:54:44 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:54:44 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:54:44 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:54:44 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:54:44 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:54:44 2013] [debug] 404 Not Found (0.023073s, 43.341/s).
+[Fri Aug  2 17:54:45 2013] [debug] GET "/".
+[Fri Aug  2 17:54:45 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:54:45 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:54:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:54:45 2013] [debug] 200 OK (0.001647s, 607.165/s).
+[Fri Aug  2 17:54:45 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:54:45 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:54:45 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:54:45 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:45 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:45 2013] [debug] 404 Not Found (0.008977s, 111.396/s).
+[Fri Aug  2 17:54:46 2013] [debug] GET "/".
+[Fri Aug  2 17:54:46 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:54:46 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:54:46 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:54:46 2013] [debug] 200 OK (0.001277s, 783.085/s).
+[Fri Aug  2 17:54:46 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:54:46 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:54:46 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:54:46 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:46 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:46 2013] [debug] 404 Not Found (0.006301s, 158.705/s).
+[Fri Aug  2 17:54:47 2013] [debug] GET "/".
+[Fri Aug  2 17:54:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:54:47 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:54:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:54:47 2013] [debug] 200 OK (0.001514s, 660.502/s).
+[Fri Aug  2 17:54:47 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:54:47 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:54:47 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:54:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:47 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:54:47 2013] [debug] 404 Not Found (0.009001s, 111.099/s).
+[Fri Aug  2 17:56:14 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 17:56:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 17:56:20 2013] [debug] GET "/".
+[Fri Aug  2 17:56:20 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:56:20 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 17:56:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 17:56:20 2013] [debug] 200 OK (0.009475s, 105.541/s).
+[Fri Aug  2 17:56:20 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:56:20 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:56:20 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:56:20 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:56:20 2013] [debug] Rendering inline template.
+[Fri Aug  2 17:56:20 2013] [debug] 404 Not Found (0.028073s, 35.621/s).
+[Fri Aug  2 17:56:21 2013] [debug] GET "/".
+[Fri Aug  2 17:56:21 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:56:21 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:56:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:56:21 2013] [debug] 200 OK (0.001073s, 931.966/s).
+[Fri Aug  2 17:56:21 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:56:21 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:56:21 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:56:21 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:56:21 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:56:21 2013] [debug] 404 Not Found (0.007548s, 132.485/s).
+[Fri Aug  2 17:56:36 2013] [debug] GET "/".
+[Fri Aug  2 17:56:36 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:56:36 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:56:36 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:56:36 2013] [debug] 200 OK (0.001273s, 785.546/s).
+[Fri Aug  2 17:56:36 2013] [debug] GET "/css/jumbotron-narrow.css".
+[Fri Aug  2 17:56:36 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 17:56:36 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 17:56:36 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:56:36 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 17:56:36 2013] [debug] 404 Not Found (0.007136s, 140.135/s).
+[Fri Aug  2 17:59:55 2013] [debug] GET "/".
+[Fri Aug  2 17:59:55 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 17:59:55 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 17:59:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 17:59:55 2013] [debug] 200 OK (0.000991s, 1009.082/s).
