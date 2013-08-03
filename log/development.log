@@ -586,3 +586,309 @@
 [Fri Aug  2 17:59:55 2013] [debug] Rendering cached template "example/welcome.html.ep".
 [Fri Aug  2 17:59:55 2013] [debug] Rendering cached template "layouts/default.html.ep".
 [Fri Aug  2 17:59:55 2013] [debug] 200 OK (0.000991s, 1009.082/s).
+[Fri Aug  2 18:02:08 2013] [debug] GET "/".
+[Fri Aug  2 18:02:08 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:02:08 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 18:02:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 18:02:08 2013] [debug] 200 OK (0.000978s, 1022.495/s).
+[Fri Aug  2 18:02:20 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:02:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:02:23 2013] [debug] GET "/".
+[Fri Aug  2 18:02:23 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:02:23 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:02:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:02:23 2013] [debug] 200 OK (0.010869s, 92.005/s).
+[Fri Aug  2 18:06:46 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:06:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:06:51 2013] [debug] GET "/".
+[Fri Aug  2 18:06:51 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:06:51 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:06:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:06:51 2013] [debug] 200 OK (0.012123s, 82.488/s).
+[Fri Aug  2 18:07:19 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:07:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:07:23 2013] [debug] GET "/".
+[Fri Aug  2 18:07:23 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:07:23 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:07:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:07:23 2013] [debug] 200 OK (0.010207s, 97.972/s).
+[Fri Aug  2 18:18:26 2013] [debug] GET "/".
+[Fri Aug  2 18:18:26 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:18:26 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Fri Aug  2 18:18:26 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Fri Aug  2 18:18:26 2013] [debug] 200 OK (0.001324s, 755.287/s).
+[Fri Aug  2 18:20:40 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:20:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:20:48 2013] [debug] GET "/".
+[Fri Aug  2 18:20:48 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:20:48 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:20:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:20:48 2013] [debug] 200 OK (0.010483s, 95.393/s).
+[Fri Aug  2 18:27:42 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:27:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:27:47 2013] [debug] GET "/".
+[Fri Aug  2 18:27:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:27:47 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:27:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:27:48 2013] [debug] 200 OK (0.012417s, 80.535/s).
+[Fri Aug  2 18:28:16 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:28:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:28:20 2013] [debug] GET "/".
+[Fri Aug  2 18:28:20 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:28:20 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:28:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:28:20 2013] [debug] 200 OK (0.011226s, 89.079/s).
+[Fri Aug  2 18:29:49 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:29:54 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:29:54 2013] [debug] GET "/".
+[Fri Aug  2 18:29:54 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:29:54 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:29:54 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:29:54 2013] [debug] 200 OK (0.010204s, 98.001/s).
+[Fri Aug  2 18:29:54 2013] [debug] GET "/css/images.bg_img.jpg".
+[Fri Aug  2 18:29:54 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 18:29:54 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 18:29:54 2013] [debug] Rendering inline template.
+[Fri Aug  2 18:29:54 2013] [debug] Rendering inline template.
+[Fri Aug  2 18:29:54 2013] [debug] 404 Not Found (0.019418s, 51.499/s).
+[Fri Aug  2 18:34:31 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:34:38 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:34:38 2013] [debug] GET "/".
+[Fri Aug  2 18:34:38 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:34:38 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:34:38 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:34:38 2013] [debug] 200 OK (0.011699s, 85.477/s).
+[Fri Aug  2 18:34:38 2013] [debug] GET "/css/images/bg_img.jpg".
+[Fri Aug  2 18:34:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 18:34:38 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 18:34:38 2013] [debug] Rendering inline template.
+[Fri Aug  2 18:34:38 2013] [debug] Rendering inline template.
+[Fri Aug  2 18:34:38 2013] [debug] 404 Not Found (0.019798s, 50.510/s).
+[Fri Aug  2 18:36:40 2013] [debug] GET "/css/images/bg_img.jpg".
+[Fri Aug  2 18:36:40 2013] [debug] Template "not_found.development.html.ep" not found.
+[Fri Aug  2 18:36:40 2013] [debug] Template "not_found.html.ep" not found.
+[Fri Aug  2 18:36:40 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 18:36:40 2013] [debug] Rendering cached inline template.
+[Fri Aug  2 18:36:40 2013] [debug] 404 Not Found (0.010535s, 94.922/s).
+[Fri Aug  2 18:37:17 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:37:21 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:37:21 2013] [debug] GET "/".
+[Fri Aug  2 18:37:21 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:37:21 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:37:21 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:37:21 2013] [debug] 200 OK (0.010931s, 91.483/s).
+[Fri Aug  2 18:40:09 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:40:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:40:15 2013] [debug] GET "/".
+[Fri Aug  2 18:40:15 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:40:15 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:40:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:40:15 2013] [debug] 200 OK (0.010466s, 95.547/s).
+[Fri Aug  2 18:40:52 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:40:56 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:40:56 2013] [debug] GET "/".
+[Fri Aug  2 18:40:56 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:40:56 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:40:56 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:40:56 2013] [debug] 200 OK (0.011256s, 88.842/s).
+[Fri Aug  2 18:42:26 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:42:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:42:31 2013] [debug] GET "/".
+[Fri Aug  2 18:42:31 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:42:31 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:42:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:42:31 2013] [debug] 200 OK (0.010259s, 97.475/s).
+[Fri Aug  2 18:47:48 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:47:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:47:53 2013] [debug] GET "/".
+[Fri Aug  2 18:47:53 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:47:53 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:47:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:47:53 2013] [debug] 200 OK (0.012392s, 80.697/s).
+[Fri Aug  2 18:49:45 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:49:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:49:52 2013] [debug] GET "/".
+[Fri Aug  2 18:49:52 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:49:52 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:49:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:49:52 2013] [debug] 200 OK (0.010503s, 95.211/s).
+[Fri Aug  2 18:51:49 2013] [info] Listening at "http://*:3000".
+[Fri Aug  2 18:51:57 2013] [debug] Your secret passphrase needs to be changed!!!
+[Fri Aug  2 18:51:57 2013] [debug] GET "/".
+[Fri Aug  2 18:51:57 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Fri Aug  2 18:51:57 2013] [debug] Rendering template "example/welcome.html.ep".
+[Fri Aug  2 18:51:57 2013] [debug] Rendering template "layouts/default.html.ep".
+[Fri Aug  2 18:51:57 2013] [debug] 200 OK (0.010730s, 93.197/s).
+[Sat Aug  3 09:35:41 2013] [debug] GET "/".
+[Sat Aug  3 09:35:41 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 09:35:41 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 09:35:41 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 09:35:41 2013] [debug] 200 OK (0.025198s, 39.686/s).
+[Sat Aug  3 11:00:42 2013] [debug] GET "/".
+[Sat Aug  3 11:00:42 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 11:00:42 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 11:00:42 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 11:00:42 2013] [debug] 200 OK (0.002857s, 350.018/s).
+[Sat Aug  3 11:00:45 2013] [debug] GET "/".
+[Sat Aug  3 11:00:45 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 11:00:45 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 11:00:45 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 11:00:45 2013] [debug] 200 OK (0.001436s, 696.379/s).
+[Sat Aug  3 11:00:47 2013] [debug] GET "/".
+[Sat Aug  3 11:00:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 11:00:47 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 11:00:47 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 11:00:47 2013] [debug] 200 OK (0.001010s, 990.099/s).
+[Sat Aug  3 12:40:14 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 12:40:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 12:40:20 2013] [debug] GET "/".
+[Sat Aug  3 12:40:20 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 12:40:20 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 12:40:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 12:40:20 2013] [debug] 200 OK (0.017974s, 55.636/s).
+[Sat Aug  3 12:46:45 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 12:46:48 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 12:46:48 2013] [debug] GET "/".
+[Sat Aug  3 12:46:48 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 12:46:48 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 12:46:48 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 12:46:48 2013] [debug] 200 OK (0.011984s, 83.445/s).
+[Sat Aug  3 12:54:38 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 12:55:06 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 12:55:06 2013] [debug] GET "/".
+[Sat Aug  3 12:55:06 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 12:55:06 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 12:55:06 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 12:55:06 2013] [debug] 200 OK (0.010916s, 91.609/s).
+[Sat Aug  3 12:58:20 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 12:58:23 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 12:58:23 2013] [debug] GET "/".
+[Sat Aug  3 12:58:23 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 12:58:23 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 12:58:23 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 12:58:23 2013] [debug] 200 OK (0.011458s, 87.275/s).
+[Sat Aug  3 13:05:22 2013] [debug] GET "/".
+[Sat Aug  3 13:05:22 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:05:22 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 13:05:22 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 13:05:22 2013] [debug] 200 OK (0.001020s, 980.392/s).
+[Sat Aug  3 13:12:25 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:12:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:12:31 2013] [debug] GET "/".
+[Sat Aug  3 13:12:31 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:12:31 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:12:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:12:31 2013] [debug] 200 OK (0.012439s, 80.392/s).
+[Sat Aug  3 13:16:23 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:16:29 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:16:29 2013] [debug] GET "/".
+[Sat Aug  3 13:16:29 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:16:29 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:16:29 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:16:29 2013] [debug] 200 OK (0.010438s, 95.804/s).
+[Sat Aug  3 13:17:58 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:18:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:18:04 2013] [debug] GET "/".
+[Sat Aug  3 13:18:04 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:18:04 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:18:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:18:04 2013] [debug] 200 OK (0.012027s, 83.146/s).
+[Sat Aug  3 13:21:37 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:21:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:21:42 2013] [debug] GET "/".
+[Sat Aug  3 13:21:42 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:21:42 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:21:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:21:43 2013] [debug] 200 OK (0.010949s, 91.333/s).
+[Sat Aug  3 13:22:40 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:22:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:22:44 2013] [debug] GET "/".
+[Sat Aug  3 13:22:44 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:22:44 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:22:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:22:44 2013] [debug] 200 OK (0.013040s, 76.687/s).
+[Sat Aug  3 13:24:47 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:24:51 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:24:51 2013] [debug] GET "/".
+[Sat Aug  3 13:24:51 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:24:51 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:24:51 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:24:51 2013] [debug] 200 OK (0.010672s, 93.703/s).
+[Sat Aug  3 13:25:15 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:25:19 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:25:19 2013] [debug] GET "/".
+[Sat Aug  3 13:25:19 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:25:19 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:25:19 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:25:19 2013] [debug] 200 OK (0.015164s, 65.946/s).
+[Sat Aug  3 13:28:53 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:28:58 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:28:58 2013] [debug] GET "/".
+[Sat Aug  3 13:28:58 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:28:58 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:28:58 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:28:58 2013] [debug] 200 OK (0.011495s, 86.994/s).
+[Sat Aug  3 13:28:59 2013] [debug] GET "/".
+[Sat Aug  3 13:28:59 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:28:59 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 13:28:59 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 13:28:59 2013] [debug] 200 OK (0.001381s, 724.113/s).
+[Sat Aug  3 13:29:01 2013] [debug] GET "/".
+[Sat Aug  3 13:29:01 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:29:01 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 13:29:01 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 13:29:01 2013] [debug] 200 OK (0.001490s, 671.141/s).
+[Sat Aug  3 13:29:20 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:29:24 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:29:24 2013] [debug] GET "/".
+[Sat Aug  3 13:29:24 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:29:24 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:29:24 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:29:24 2013] [debug] 200 OK (0.011062s, 90.400/s).
+[Sat Aug  3 13:36:43 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 13:36:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 13:36:53 2013] [debug] GET "/".
+[Sat Aug  3 13:36:53 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 13:36:53 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 13:36:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 13:36:53 2013] [debug] 200 OK (0.014635s, 68.329/s).
+[Sat Aug  3 14:50:10 2013] [debug] GET "/".
+[Sat Aug  3 14:50:10 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 14:50:10 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Sat Aug  3 14:50:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Sat Aug  3 14:50:10 2013] [debug] 200 OK (0.003027s, 330.360/s).
+[Sat Aug  3 14:57:07 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 14:57:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 14:57:33 2013] [debug] GET "/".
+[Sat Aug  3 14:57:33 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 14:57:33 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 14:57:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 14:57:33 2013] [debug] 200 OK (0.014069s, 71.078/s).
+[Sat Aug  3 14:59:49 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 14:59:53 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 14:59:53 2013] [debug] GET "/".
+[Sat Aug  3 14:59:53 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 14:59:53 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 14:59:53 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 14:59:53 2013] [debug] 200 OK (0.013594s, 73.562/s).
+[Sat Aug  3 15:00:21 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 15:00:25 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 15:00:25 2013] [debug] GET "/".
+[Sat Aug  3 15:00:25 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 15:00:25 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 15:00:25 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 15:00:25 2013] [debug] 200 OK (0.017162s, 58.268/s).
+[Sat Aug  3 15:00:58 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 15:01:04 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 15:01:04 2013] [debug] GET "/".
+[Sat Aug  3 15:01:04 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 15:01:04 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 15:01:04 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 15:01:04 2013] [debug] 200 OK (0.014097s, 70.937/s).
+[Sat Aug  3 15:03:43 2013] [info] Listening at "http://*:3000".
+[Sat Aug  3 15:03:47 2013] [debug] Your secret passphrase needs to be changed!!!
+[Sat Aug  3 15:03:47 2013] [debug] GET "/".
+[Sat Aug  3 15:03:47 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Sat Aug  3 15:03:47 2013] [debug] Rendering template "example/welcome.html.ep".
+[Sat Aug  3 15:03:47 2013] [debug] Rendering template "layouts/default.html.ep".
+[Sat Aug  3 15:03:47 2013] [debug] 200 OK (0.013703s, 72.977/s).

@@ -382,7 +382,7 @@ cite {
 }
 
 .text-muted {
-  color: #999999;
+  color: #FFFFFF;
 }
 
 .text-primary {
@@ -467,7 +467,8 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 38px;
+  font-size: 100px;
+  color: #FFFFFF;
 }
 
 h2,
@@ -2458,21 +2459,22 @@ button.close {
   position: relative;
   display: block;
   padding: 10px 15px;
+  color: #FFFFFF;
 }
 
 .nav > li > a:hover,
 .nav > li > a:focus {
-  text-decoration: none;
-  background-color: #eeeeee;
+  text-decoration: underline;
+  background-color: none;
 }
 
 .nav > li.disabled > a {
-  color: #999999;
+  color: #FFFFFF;
 }
 
 .nav > li.disabled > a:hover,
 .nav > li.disabled > a:focus {
-  color: #999999;
+  color: #FFFFFF;
   text-decoration: none;
   cursor: not-allowed;
   background-color: transparent;
@@ -2574,7 +2576,10 @@ button.close {
 .nav-pills > li.active > a:hover,
 .nav-pills > li.active > a:focus {
   color: #ffffff;
-  background-color: #428bca;
+  background-color: none;
+  text-decoration: underline;
+
+  
 }
 
 .nav-stacked > li {
@@ -3999,7 +4004,8 @@ a.badge:focus {
 
 a.list-group-item.active > .badge,
 .nav-pills > .active > a > .badge {
-  color: #428bca;
+  
+  color: #000000;
   background-color: #ffffff;
 }
 
