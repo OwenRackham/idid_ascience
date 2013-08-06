@@ -1296,3 +1296,8 @@
 [Sun Aug  4 23:42:56 2013] [debug] Rendering template "example/welcome.html.ep".
 [Sun Aug  4 23:42:56 2013] [debug] Rendering template "layouts/default.html.ep".
 [Sun Aug  4 23:42:56 2013] [debug] 200 OK (0.013884s, 72.025/s).
+[Tue Aug  6 11:13:08 2013] [debug] GET "/".
+[Tue Aug  6 11:13:08 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 11:13:08 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  6 11:13:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  6 11:13:08 2013] [debug] 200 OK (0.023152s, 43.193/s).
