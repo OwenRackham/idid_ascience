@@ -1301,3 +1301,135 @@
 [Tue Aug  6 11:13:08 2013] [debug] Rendering cached template "example/welcome.html.ep".
 [Tue Aug  6 11:13:08 2013] [debug] Rendering cached template "layouts/default.html.ep".
 [Tue Aug  6 11:13:08 2013] [debug] 200 OK (0.023152s, 43.193/s).
+[Tue Aug  6 15:52:31 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 15:52:31 2013] [debug] GET "/".
+[Tue Aug  6 15:52:31 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 15:52:31 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 15:52:31 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 15:52:31 2013] [debug] 200 OK (0.039434s, 25.359/s).
+[Tue Aug  6 15:56:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 15:56:11 2013] [debug] GET "/".
+[Tue Aug  6 15:56:11 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 15:56:11 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 15:56:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 15:56:11 2013] [debug] 200 OK (0.035715s, 27.999/s).
+[Tue Aug  6 16:27:42 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:27:42 2013] [debug] GET "/".
+[Tue Aug  6 16:27:42 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:27:42 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:27:42 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:27:42 2013] [debug] 200 OK (0.035931s, 27.831/s).
+[Tue Aug  6 16:28:26 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:28:26 2013] [debug] GET "/".
+[Tue Aug  6 16:28:26 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:28:26 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:28:26 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:28:26 2013] [debug] 200 OK (0.036034s, 27.752/s).
+[Tue Aug  6 16:30:20 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:30:20 2013] [debug] GET "/".
+[Tue Aug  6 16:30:20 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:30:20 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:30:20 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:30:20 2013] [debug] 200 OK (0.063660s, 15.708/s).
+[Tue Aug  6 16:36:11 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:36:11 2013] [debug] GET "/".
+[Tue Aug  6 16:36:11 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:36:11 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:36:11 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:36:11 2013] [debug] 200 OK (0.040178s, 24.889/s).
+[Tue Aug  6 16:36:33 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:36:33 2013] [debug] GET "/".
+[Tue Aug  6 16:36:33 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:36:33 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:36:33 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:36:33 2013] [debug] 200 OK (0.036632s, 27.299/s).
+[Tue Aug  6 16:44:15 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:44:15 2013] [debug] GET "/".
+[Tue Aug  6 16:44:15 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:44:15 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:44:15 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:44:15 2013] [debug] 200 OK (0.037935s, 26.361/s).
+[Tue Aug  6 16:53:44 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 16:53:44 2013] [debug] GET "/".
+[Tue Aug  6 16:53:44 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 16:53:44 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 16:53:44 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 16:53:44 2013] [debug] 200 OK (0.036570s, 27.345/s).
+[Tue Aug  6 17:04:37 2013] [info] Listening at "http://localhost:3010".
+[Tue Aug  6 17:04:52 2013] [debug] Your secret passphrase needs to be changed!!!
+[Tue Aug  6 17:04:52 2013] [debug] GET "/".
+[Tue Aug  6 17:04:52 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 17:04:52 2013] [debug] Rendering template "example/welcome.html.ep".
+[Tue Aug  6 17:04:52 2013] [debug] Rendering template "layouts/default.html.ep".
+[Tue Aug  6 17:04:52 2013] [debug] 200 OK (0.056752s, 17.621/s).
+[Tue Aug  6 17:12:39 2013] [debug] GET "/".
+[Tue Aug  6 17:12:39 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 17:12:39 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  6 17:12:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  6 17:12:39 2013] [debug] 200 OK (0.004489s, 222.767/s).
+[Tue Aug  6 17:13:38 2013] [debug] GET "/public/css/bootstrap.css".
+[Tue Aug  6 17:13:38 2013] [debug] Template "not_found.development.html.ep" not found.
+[Tue Aug  6 17:13:38 2013] [debug] Template "not_found.html.ep" not found.
+[Tue Aug  6 17:13:38 2013] [debug] Rendering inline template.
+[Tue Aug  6 17:13:38 2013] [debug] Rendering inline template.
+[Tue Aug  6 17:13:38 2013] [debug] 404 Not Found (0.030554s, 32.729/s).
+[Tue Aug  6 17:13:44 2013] [debug] GET "/".
+[Tue Aug  6 17:13:44 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 17:13:44 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  6 17:13:44 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  6 17:13:44 2013] [debug] 200 OK (0.003449s, 289.939/s).
+[Tue Aug  6 18:52:27 2013] [debug] GET "/".
+[Tue Aug  6 18:52:27 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 18:52:27 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  6 18:52:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  6 18:52:27 2013] [debug] 200 OK (0.002371s, 421.763/s).
+[Tue Aug  6 22:25:44 2013] [debug] GET "/".
+[Tue Aug  6 22:25:44 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Tue Aug  6 22:25:44 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Tue Aug  6 22:25:44 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Tue Aug  6 22:25:44 2013] [debug] 200 OK (0.005240s, 190.840/s).
+[Wed Aug  7 09:44:32 2013] [debug] GET "/".
+[Wed Aug  7 09:44:32 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 09:44:32 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 09:44:32 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 09:44:32 2013] [debug] 200 OK (0.003650s, 273.973/s).
+[Wed Aug  7 11:17:16 2013] [debug] GET "/".
+[Wed Aug  7 11:17:16 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 11:17:16 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 11:17:16 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 11:17:16 2013] [debug] 200 OK (0.003561s, 280.820/s).
+[Wed Aug  7 11:36:39 2013] [debug] GET "/".
+[Wed Aug  7 11:36:39 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 11:36:39 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 11:36:39 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 11:36:39 2013] [debug] 200 OK (0.003796s, 263.435/s).
+[Wed Aug  7 11:36:50 2013] [debug] GET "/".
+[Wed Aug  7 11:36:50 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 11:36:50 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 11:36:50 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 11:36:50 2013] [debug] 200 OK (0.003733s, 267.881/s).
+[Wed Aug  7 12:22:49 2013] [debug] GET "/".
+[Wed Aug  7 12:22:49 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 12:22:49 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 12:22:49 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 12:22:49 2013] [debug] 200 OK (0.003938s, 253.936/s).
+[Wed Aug  7 13:30:10 2013] [debug] GET "/".
+[Wed Aug  7 13:30:10 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 13:30:10 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 13:30:10 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 13:30:10 2013] [debug] 200 OK (0.004328s, 231.054/s).
+[Wed Aug  7 13:32:38 2013] [debug] GET "/".
+[Wed Aug  7 13:32:38 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Wed Aug  7 13:32:38 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Wed Aug  7 13:32:38 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Wed Aug  7 13:32:38 2013] [debug] 200 OK (0.003898s, 256.542/s).
+[Thu Aug  8 16:11:21 2013] [debug] GET "/".
+[Thu Aug  8 16:11:21 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Thu Aug  8 16:11:21 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Aug  8 16:11:21 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Aug  8 16:11:21 2013] [debug] 200 OK (0.016877s, 59.252/s).
+[Thu Aug  8 16:44:27 2013] [debug] GET "/".
+[Thu Aug  8 16:44:27 2013] [debug] Routing to controller "IDidAScience::Example" and action "welcome".
+[Thu Aug  8 16:44:27 2013] [debug] Rendering cached template "example/welcome.html.ep".
+[Thu Aug  8 16:44:27 2013] [debug] Rendering cached template "layouts/default.html.ep".
+[Thu Aug  8 16:44:27 2013] [debug] 200 OK (0.004435s, 225.479/s).
