@@ -47,6 +47,7 @@ $(document).ready(function() {
 	<br>
 </div>
 <div class="row marketing">
+	<div class="container">
 	<div class="col-lg-4">
 		<a id="findout"> </a>
 		<h2>What are we all about?</h2>
@@ -69,6 +70,7 @@ $(document).ready(function() {
 		<p class='text-right'>
 			<a class="btn btn-default" href="#">Join us &raquo;</a>
 		</p>
+	</div>
 	</div>
 </div>
 <div class="row text-center">
