@@ -1,0 +1,69 @@
+% layout 'default';
+% title 'ididascience';
+<script type="text/javascript">
+$(document).ready(function() {
+   $('#findbutton').localScroll({duration:800});
+});
+</script>
+
+<div class="container">
+	<div class="row">
+		<div class="col-lg-6 marketing">
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+			<div class="col-lg-6">
+			<h3>Fried Egg in space</h3>
+				<p>
+					Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+				</p>
+			</div>
+		</div>
+		<div class="col-lg-6 text-left textarea">
+			<h1> <%== $message %> </h1>
+		</div>
+	</div>
+</div>
+
+<!-- /container -->
+<!-- Example row of columns -->
+<div class="row text-center">
+	<br>
+</div>
+
+
+<div class="container">
+	<div class="footer text-muted">
+		<p>
+			&copy; Descrybe 2013
+		</p>
+	</div>
+</div>
+
