@@ -1,6 +1,6 @@
 /* Space out content a bit */
 body {
-  background-image: url('../images/bg_img.jpg');
+  
   background-size:100% 100%;
   background-repeat:no-repeat;
   padding-top: 20px;
@@ -71,7 +71,8 @@ body {
 /* Supporting marketing content */
 .marketing {
   margin: 0px 0;
-  background-color: #eeeeee;
+  background-color: rgba(255,255,255,0.5);
+  
 }
 .marketing p + h4 {
   margin-top: 28px;
