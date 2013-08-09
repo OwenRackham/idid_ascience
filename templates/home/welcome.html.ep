@@ -1,0 +1,73 @@
+% layout 'default';
+% title 'ididascience';
+<script type="text/javascript">
+$(document).ready(function() {
+   $('#findbutton').localScroll({duration:800});
+});
+</script>
+<div class="container">
+	<div class="row">
+		<div class="col-lg-6 text-left">
+			<h1>i
+			<br>
+			did
+			<br>
+			a
+			<br>
+			science.</h1>
+		</div>
+		<div class="col-lg-6 text-right">
+		<a class="twitter-timeline"  width="300" height="500" href="https://twitter.com/ididascience"  data-link-color="#FFFFFF" data-chrome="noheader nofooter noborders transparent noscrollbar" data-widget-id="363700775286890496">Tweets by @ididascience</a>
+		<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+
+		</div>
+		<div class='text-center span4' id='findbutton' name='findbutton'>
+			<a class="btn btn-large btn-success" href="#findout">Find out more <span class="glyphicon glyphicon-hand-down"></span></a>
+		</div>
+	</div>
+</div>
+
+<!-- /container -->
+<!-- Example row of columns -->
+<div class="row text-center">
+	<br>
+</div>
+<div class="row marketing">
+	<div class="container">
+	<div class="col-lg-4">
+		<a id="findout"> </a>
+		<h2>What are we all about?</h2>
+		<p>
+			Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+		</p>
+	</div>
+	<div class="col-lg-4">
+		<h2>Who are we?</h2>
+		<p>
+			Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod. Donec sed odio dui.
+		</p>
+
+	</div>
+	<div class="col-lg-4">
+		<h2>What's next?</h2>
+		<p>
+			Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
+		</p>
+		<p class='text-right'>
+			<a class="btn btn-default" href="#">Join us &raquo;</a>
+		</p>
+	</div>
+	</div>
+</div>
+<div class="row text-center">
+	<br>
+</div>
+
+<div class="container">
+	<div class="footer text-muted">
+		<p>
+			&copy; Descrybe 2013
+		</p>
+	</div>
+</div>
+
