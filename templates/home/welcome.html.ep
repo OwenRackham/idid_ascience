@@ -34,17 +34,17 @@ $(document).ready(function() {
 </div>
 <div class="row marketing">
 	<div class="container">
-	<div class="col-lg-4">
+	<div class="col-lg-4 text-center">
 		<a id="findout"> </a>
 		<h2>#sciencehacks</h2>
 		<p>
 			Scientists both professional and ametaur try their hand at intering science hacks. From kitchen labs to cool code, we'll try anything.
 		</p>
-		<p class="text-center">
+		<p class="text-center text-center">
 			<a class="btn btn-default" href="/hacks">See more &raquo;</a>
 		</p>
 	</div>
-	<div class="col-lg-4">
+	<div class="col-lg-4 text-center">
 		<h2>#sciencestories</h2>
 		<p>
 			Things that matter researched by people who care. A collection of stories from first time scientists researching something that affects them.
@@ -53,7 +53,7 @@ $(document).ready(function() {
 			<a class="btn btn-default" href="/story">See more &raquo;</a>
 		</p>
 	</div>
-	<div class="col-lg-4">
+	<div class="col-lg-4 text-center">
 		<h2>#sciencesketch</h2>
 		<p>
 			The artistic side of science. Leading artists try that hand at expressing some aspect of science that interests them.
