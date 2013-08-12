@@ -16,8 +16,17 @@ sub story {
 
   # Render template "home/welcome.html.ep" with message
   $self->render(
+    message => "the<br>word<br>on the<br>street.",
+    bg_img => '../images/bg_library.jpg');
+}
+
+sub gallery {
+  my $self = shift;
+
+  # Render template "home/welcome.html.ep" with message
+  $self->render(
     message => "the<br>future<br>of<br>travel.",
-    bg_img => '../images/car_bg.jpg');
+    bg_img => '../images/bg_gallery.jpg');
 }
 
 1;

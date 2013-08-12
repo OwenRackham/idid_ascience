@@ -1,0 +1,76 @@
+% layout 'default';
+% title 'ididascience';
+<script type="text/javascript">
+	$(document).ready(function() {
+		$('#findbutton').localScroll({
+			duration : 800
+		});
+	}); 
+</script>
+
+<script>
+  $(document).ready(function(){
+    $('.carousel').carousel();
+  });
+</script>
+
+<div class="container">
+	<div class="row">
+		<div id="this-carousel-id" class="carousel slide">
+			<!-- class of slide for animation -->
+			<div class="carousel-inner">
+				<div class="item active">
+					<!-- class of active since it's the first item -->
+					<img src="http://placehold.it/1200x480" alt="" />
+					<div class="carousel-caption">
+						<p>
+							Caption text here
+						</p>
+					</div>
+				</div>
+				<div class="item">
+					<img src="http://placehold.it/1200x480" alt="" />
+					<div class="carousel-caption">
+						<p>
+							Caption text here
+						</p>
+					</div>
+				</div>
+				<div class="item">
+					<img src="http://placehold.it/1200x480" alt="" />
+					<div class="carousel-caption">
+						<p>
+							Caption text here
+						</p>
+					</div>
+				</div>
+				<div class="item">
+					<img src="http://placehold.it/1200x480" alt="" />
+					<div class="carousel-caption">
+						<p>
+							Caption text here
+						</p>
+					</div>
+				</div>
+			</div><!-- /.carousel-inner -->
+			<!--  Next and Previous controls below href values must reference the id for this carousel -->
+			<a class="carousel-control left" href="#this-carousel-id" data-slide="prev">&lsaquo;</a>
+			<a class="carousel-control right" href="#this-carousel-id" data-slide="next">&rsaquo;</a>
+		</div><!-- /.carousel -->
+	</div>
+</div>
+
+<!-- /container -->
+<!-- Example row of columns -->
+<div class="row text-center">
+	<br>
+</div>
+
+<div class="container">
+	<div class="footer text-muted">
+		<p>
+			&copy; Descrybe 2013
+		</p>
+	</div>
+</div>
+

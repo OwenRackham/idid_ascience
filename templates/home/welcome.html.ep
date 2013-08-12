@@ -59,7 +59,7 @@ $(document).ready(function() {
 			The artistic side of science. Leading artists try that hand at expressing some aspect of science that interests them.
 		</p>
 		<p class="text-center">
-			<a class="btn btn-default" href="/sketch">See more &raquo;</a>
+			<a class="btn btn-default" href="/gallery">See more &raquo;</a>
 		</p>
 	</div>
 	</div>
